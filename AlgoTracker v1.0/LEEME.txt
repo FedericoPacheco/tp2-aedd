@@ -1,0 +1,24 @@
+________________________________________________________________________________________________________________________
+* La navegación entre menús se realiza mediante las teclas 'w' y 's', presionando finalmente 'enter'.
+
+* Es posible abrir y cerrar sesión múltiples veces dentro del programa.
+
+* El programa tiene "memoria": recupera de "problemasyevaluaciones.txt" lo registrado en una sesión anterior, 
+a no ser que formateen los datos dentro del mismo, no exista registro de la cantidad de problemas, o varíe 
+dicho número (formateo automático). 
+
+* La opción de borrado de datos del menú principal solo resetea la información correspodiente al usuario logueado.
+________________________________________________________________________________________________________________________
+* Si no se disponen de los .txts necesarios para la ejecución en la misma carpeta del .exe, el programa lo avisará 
+y se cerrará. 
+
+* La aplicación es capaz de soportar entradas vacías, entradas alfanúmericas en campos plenamente númericos, etc.,
+avisando el error correspondiente.  
+________________________________________________________________________________________________________________________
+* Si se cambia el repertorio de problemas, temas, etc. , asegurarse de no dejar espacios en blanco / enters en la última 
+línea de texto de cada archivo y que haya correspodencia entre los problemas listados en un archivo y otro.
+
+
+
+
+

@@ -1,0 +1,8 @@
+1 Tipos de datos simples
+2 Estructuras de control condicionales
+3 Estructuras de control repetitivas
+4 Vectores de una dimensión
+5 Matrices
+6 Structs
+7 Ordenamiento
+8 Listas Enlazadas
